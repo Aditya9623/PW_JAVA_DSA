@@ -11,6 +11,8 @@ public class treeset
 						ts.add(125);
 							ts.add(175);
 	System.out.print(ts);
-	
+		
+	System.out.print(ts.higher(50));
+	System.out.print(ts.higher(50));
 	}
 }
