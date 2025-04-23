@@ -4,6 +4,9 @@ class ArrayInput
     
 public static void main (String[]args)
 {
+   // int arr[]={12,45,74,85,14,65};
+   // int num=arr.length;
+    
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     
